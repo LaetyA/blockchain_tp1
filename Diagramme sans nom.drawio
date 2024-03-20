@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T11:08:23.991Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="rW3wYOIwhUD4UxL9fAqH" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T11:11:07.118Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="8C9sF-pr9K_QitCTcL7o" version="24.0.7" type="github">
   <diagram name="Page-1" id="oV1Fuwb7MrvapbLkFMkj">
-    <mxGraphModel dx="306" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1106" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,6 +62,11 @@
         </mxCell>
         <mxCell id="4AqiGN7uSB8tTxlLUijl-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="4AqiGN7uSB8tTxlLUijl-15" target="4AqiGN7uSB8tTxlLUijl-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CeNqIijYDRwHxGpEc0_K-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=block;endFill=0;" edge="1" parent="1" source="4AqiGN7uSB8tTxlLUijl-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="360" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="4AqiGN7uSB8tTxlLUijl-15" value="administrateur&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="480" width="30" height="60" as="geometry" />
